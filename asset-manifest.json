@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://riyadh-dev.github.io/portfolio-website-react/static/css/main.053d0970.css",
-    "main.js": "https://riyadh-dev.github.io/portfolio-website-react/static/js/main.565afb92.js",
+    "main.css": "https://riyadh-dev.github.io/portfolio-website-react/static/css/main.d0590438.css",
+    "main.js": "https://riyadh-dev.github.io/portfolio-website-react/static/js/main.52318709.js",
     "index.html": "https://riyadh-dev.github.io/portfolio-website-react/index.html",
-    "main.053d0970.css.map": "https://riyadh-dev.github.io/portfolio-website-react/static/css/main.053d0970.css.map",
-    "main.565afb92.js.map": "https://riyadh-dev.github.io/portfolio-website-react/static/js/main.565afb92.js.map"
+    "main.d0590438.css.map": "https://riyadh-dev.github.io/portfolio-website-react/static/css/main.d0590438.css.map",
+    "main.52318709.js.map": "https://riyadh-dev.github.io/portfolio-website-react/static/js/main.52318709.js.map"
   },
   "entrypoints": [
-    "static/css/main.053d0970.css",
-    "static/js/main.565afb92.js"
+    "static/css/main.d0590438.css",
+    "static/js/main.52318709.js"
   ]
 }
